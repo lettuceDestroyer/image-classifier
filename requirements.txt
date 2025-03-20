@@ -1,2 +1,6 @@
-torchvision
 ipykernel
+matplotlib
+pandas
+scikit-learn
+torchvision
+tqdm
