@@ -29,7 +29,6 @@ project/
 └── test
 ```
 Inside this folder create a new virtual environment:
-
 ```python
 $ python -m venv .venv
 ```
@@ -42,9 +41,10 @@ $ . <project_name>/bin/activate
 # To activate it on Windows run:
 $ . <project_name>/Scripts/activate
 ```
-Now, from inside the environment install ipykernel using pip:
+
+Now, from inside the environment install all required modules using pip:
 ```python
-$ pip install ipykernel
+$ pip install -r requirements.txt
 ```
 
 And now install a new kernel:
