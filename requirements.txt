@@ -1,7 +1,5 @@
 ipykernel
 matplotlib
-onnx
-onnxscript
 pandas
 scikit-learn
 torchvision
