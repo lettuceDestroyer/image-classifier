@@ -1,7 +1,8 @@
-albumentations
 ipykernel
 matplotlib
 pandas
+pillow
+requests
 scikit-learn
 torchvision
 tqdm
